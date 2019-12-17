@@ -9,11 +9,6 @@
 
 Dark-FB-Gold is a python based script which Dark-FB-Gold in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/kalimux)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/kalimux)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/kalimux)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#kalimux)
-
 ![photo_2019-04-16_17-23-52](https://1.bp.blogspot.com/-L6_A9Xvpi30/Xfiee_27k-I/AAAAAAAAAT4/W4o9rYJ0dAck-7VpMM7LWjB1nQeGElUGQCLcBGAsYHQ/s1600/20191217_142042.jpg)
 
 ### Dark-FB-Gold is available for
